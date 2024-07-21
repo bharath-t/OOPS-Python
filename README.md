@@ -1,2 +1,3 @@
 # OOPS-Python
-Repo to learn OOPS using python
+
+Checking out oops on a high level.
